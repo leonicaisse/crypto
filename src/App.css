@@ -1,0 +1,28 @@
+body {
+    background: #f1f1f1;
+    padding: 50px;
+}
+
+div#crypto-container {
+    background: white;
+    width: 70%;
+    margin: 0 auto 12px auto;
+    padding: 1em;
+    box-shadow: 4px 4px 3px #cdcdcd;
+}
+
+span.left {
+    font-weight: bold;
+}
+
+span.right {
+    float: right;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
